@@ -1,0 +1,49 @@
+.card-area{
+    width: 350px;
+    height: 200px;
+    border-radius: 20px;
+    margin:20px;
+}
+
+.logo-div{
+    display: flex;
+    justify-content: right;
+}
+
+.logo-div img{
+    
+    height: 20px;
+    width: auto;
+    padding: 15px 20px;
+}
+
+.info-area{
+    padding: 20px;
+}
+
+.number-area{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    align-items: center;
+}
+
+.encrypted{
+    font-size: 0.8em;
+    letter-spacing: 4px;
+    margin-left: 15px;
+}
+
+.last-digits{
+    font-size: 2em;
+}
+
+.card-info span{
+    padding: 0 20px 0 0;
+}
+
+.card-info{
+    margin-top: 30px;
+    margin-bottom: 0;
+    padding-bottom: 0;
+}

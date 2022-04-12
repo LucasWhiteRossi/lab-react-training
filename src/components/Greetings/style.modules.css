@@ -1,0 +1,10 @@
+.greetingTag{
+    padding: 4px;
+    margin: 4px;
+    border: solid black 2px;
+    font-size: 2em;
+}
+
+.greetingTag span{
+    padding: 2px 6px;
+}
