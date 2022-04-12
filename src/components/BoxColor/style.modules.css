@@ -1,0 +1,12 @@
+.box-color{
+    border: 2px solid black;
+    margin: 4px;
+    padding: 20px;
+    text-align: center;
+    font-size: 2em;
+}
+
+.box-color p{
+    margin: 0;
+    padding: 0;
+}
