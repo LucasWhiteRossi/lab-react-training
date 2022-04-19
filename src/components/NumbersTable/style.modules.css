@@ -1,0 +1,8 @@
+.colored-number-box{
+    width: 130px; 
+    height:130px;
+    display:flex;
+    border:2px solid black;
+    align-items: center; 
+    justify-content: center;
+}

@@ -4,7 +4,7 @@ import { Rating } from '../Rating';
 export function DriverCard(props) {
     return (  
         <div className="driver-card">
-            <img src={props.img} alt={props.name}/>
+            <img className="car-img" src={props.img} alt={props.name}/>
             <div className="info">
                 <div className="name">{props.name}</div>
                 <div className="rating">

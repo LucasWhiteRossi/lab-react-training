@@ -9,12 +9,11 @@
     margin: 20px;
 }
 
-img{
+.car-img{
     width: 100px;
     height: 100px;
+    overflow: hidden;
     border-radius: 100px;
-    object-fit: fill;
-    object-position: 50%;
 }
 
 .info{
